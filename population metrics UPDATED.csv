@@ -1,10 +1,10 @@
-County,GCP MM,Percentage urban population,percentage in informal settlement,Migration into the county,Migration out of the county,Net Migration
-Kilifi,"167,640",27.10%,,51685,59453,-7768
-Kajiado,"124,613",55.70%,,"139,996","39,263",100733
-Kwale,"90,121",14.60%,,30591,39669,-9078
-Nakuru,"392,258",48.40%,0.90%,"241,350","159,296",82054
-Laikipia,"73,636",24.60%,,"56,085","45,645",10440
-Mombasa,"417,056",100%,2.70%,"170,309",96689,73620
-Nairobi,"2,277,453",100%,18.50%,"641,817","411,790",230027
-Machakos,"264,352",29.10%,0.60%,128767,116332,12435
-Kiambu,"459,376",70.60%,5.10%,"319,153","144,977",174176
+County,GCP MM,Percentage urban population,Migration into the county,Migration out of the county,Net Migration
+Kilifi,167640,27.10%,51685,59453,-7768
+Kajiado,124613,55.70%,139996,39263,100733
+Kwale,90121,14.60%,30591,39669,-9078
+Nakuru,392258,48.40%,241350,159296,82054
+Laikipia,73636,24.60%,56085,45645,10440
+Mombasa,417056,100.00%,170309,96689,73620
+Nairobi,2277453,100.00%,641817,411790,230027
+Machakos,264352,29.10%,128767,116332,12435
+Kiambu,459376,70.60%,319153,144977,174176
